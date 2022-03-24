@@ -1,0 +1,8 @@
+.bg-login-image {
+    background-image: url("../images/login.jpg");
+}
+
+.DTE_Field.error {
+    width: initial;
+    font-size: initial;
+}
